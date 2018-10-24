@@ -1,0 +1,603 @@
+<resources>
+    <string name="app_name">v3 Tour Guide App (Welcome To Rome!)</string>
+    <string name="item_image">Image Of Item</string>
+    <string name="see_fragment">See</string>
+    <string name="eat_fragment">Eat</string>
+    <string name="sleep_fragment">Sleep</string>
+    <string name="tour_fragment">Tours</string>
+    <string name="colosseum_name">Colosseum</string>
+    <string name="colosseum_address">ADDRESS:\nPiazza del Colosseo, 1, 00184 Roma RM, Italy</string>
+    <string name="colosseum_phone">PHONE:\n+39 06 39967700</string>
+    <string name="colosseum_hours">HOURS:\nEveryday 8:30am - 7:00pm</string>
+    <string name="colosseum_description">ABOUT:\nThe Colosseum or Coliseum, also known as the Flavian Amphitheatre,
+        is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine, tuff,
+        and brick-faced concrete, it is the largest amphitheatre ever built.  The Colosseum was used
+        for gladiatorial contests and various public spectacles such as mock sea battles, animal hunts,
+        executions, re-enactments of famous battles, and dramas based on Classical mythology.</string>
+    <string name="roman_forum_name">Roman Forum</string>
+    <string name="roman_forum_address">ADDRESS:\nVia della Salara Vecchia, 5/6, 00186 Roma RM, Italy</string>
+    <string name="roman_forum_phone">ADDRESS:\n+39 06 0608</string>
+    <string name="roman_forum_hours">HOURS:\nEveryday 9:00am - 7:00pm</string>
+    <string name="roman_forum_description">ABOUT:\nThe Roman Forum, is a rectangular forum (plaza) surrounded
+        by the ruins of several important ancient government buildings at the center of the city of Rome.
+        Citizens of the ancient city referred to this space, originally a marketplace, as the Forum Magnum,
+        or simply the Forum. For centuries the Forum was the center of day-to-day life in Rome: the site
+        of triumphal processions and elections; the venue for public speeches, criminal trials, and
+        gladiatorial matches; and the nucleus of commercial affairs.  The Forum today is a sprawling
+        ruin of architectural fragments and intermittent archaeological excavations.</string>
+    <string name="arch_constantine_name">Arch of Constantine</string>
+    <string name="arch_constantine_address">ADDRESS:\nVia di San Gregorio, 00186 Roma RM, Italy</string>
+    <string name="arch_constantine_phone">ADDRESS:\n+39 06 0606</string>
+    <string name="arch_constantine_hours">HOURS:\nOpen 24 Hours</string>
+    <string name="arch_constantine_description">ABOUT:\nThe Arch of Constantine is a triumphal arch in Rome,
+        situated between the Colosseum and the Palatine Hill. It was erected by the Roman Senate to
+        commemorate Constantine I\'s victory over Maxentius at the Battle of Milvian Bridge in 312.
+        Dedicated in 315, it is the largest Roman triumphal arch. The arch spans the Via triumphalis,
+        the way taken by the emperors when they entered the city in triumph.</string>
+    <string name="arch_titus_name">Arch of Titus</string>
+    <string name="arch_titus_address">ADDRESS:\nVia Sacra, 00186 Roma RM, Italy</string>
+    <string name="arch_titus_phone">PHONE:\nNo Phone Number</string>
+    <string name="arch_titus_hours">HOURS:\nOpen 24 Hours</string>
+    <string name="arch_titus_description">ABOUT:\nThe Arch of Titus is a 1st-century AD honorific arch,
+        located on the Via Sacra, Rome, just to the south-east of the Roman Forum. It was constructed
+        in c. AD 82 by the Emperor Domitian shortly after the death of his older brother Titus to
+        commemorate Titus\'s victories. The arch has provided the general model for many triumphal
+        arches erected since the 16th century - perhaps most famously it is the inspiration for the
+        Arc de Triomphe in Paris, France.</string>
+    <string name="palatine_hill_name">Palatine Hill</string>
+    <string name="palatine_hill_address">ADDRESS:\nPiazza Santa Maria Nova, 53, 00186 Rome, Italy</string>
+    <string name="palatine_hill_phone">PHONE:\n+39.06.39967700</string>
+    <string name="palatine_hill_hours">HOURS:\nEveryday 8.30am to one hour before sunset</string>
+    <string name="palatine_hill_description">ABOUT:\nThe Palatine Hill is the centremost of the Seven Hills
+        of Rome and is one of the most ancient parts of the city. It stands 40 metres above the Roman
+        Forum, looking down upon it on one side, and upon the Circus Maximus on the other. From the
+        time of Augustus Imperial palaces were built here. The hill is the etymological origin of the
+        word palace and its cognates in other languages (Italian: palazzo, French: palais, German: Palast, etc.).</string>
+    <string name="circus_maximus_name">Circus Maximus</string>
+    <string name="circus_maximus_address">ADDRESS:\nVia del Circo Massimo, 00186 Roma RM, Italy</string>
+    <string name="circus_maximus_phone">PHONE:\n+39 06 0608</string>
+    <string name="circus_maximus_hours">HOURS:\nOpen 24 Hours</string>
+    <string name="circus_maximus_description">ABOUT:\nThe Circus Maximus is an ancient Roman chariot-racing
+        stadium and mass entertainment venue located in Rome, Italy. Situated in the valley between
+        the Aventine and Palatine Hills, it was the first and largest stadium in ancient Rome and its
+        later Empire. It measured 621 m (2,037 ft) in length and 118 m (387 ft) in width and could
+        accommodate over 150,000 spectators. In its fully developed form, it became the model for circuses
+        throughout the Roman Empire. The site is now a public park.</string>
+    <string name="capitoline_museums_name">Capitoline Museums</string>
+    <string name="capitoline_museums_address">ADDRESS:\nPiazza del Campidoglio, 1, 00186 Roma RM, Italy</string>
+    <string name="capitoline_museums_phone">PHONE:\n+39 06 0608</string>
+    <string name="capitoline_museums_hours">HOURS:\nEveryday 9:30am - 7:30pm</string>
+    <string name="capitoline_museums_description">ABOUT:\nThe Capitoline Museums are a single museum containing
+        a group of art and archaeological museums in Piazza del Campidoglio, on top of the Capitoline Hill
+        in Rome, Italy.  It opened to the public in 1734 under Clement XII, the Capitoline Museums are
+        considered the first museum in the world, understood as a place where art could be enjoyed by
+        all and not only by the owners.</string>
+    <string name="capitoline_hill_name">Capitoline Hill</string>
+    <string name="capitoline_hill_address">ADDRESS:\nPiazza del Campidoglio, 00186 Roma RM, Italy</string>
+    <string name="capitoline_hill_phone">PHONE:\nNo Phone Number</string>
+    <string name="capitoline_hill_hours">HOURS:\nOpen 24 Hours</string>
+    <string name="capitoline_hill_description">ABOUT:\nThe Capitoline Hill between the Forum and the Campus
+        Martius, is one of the Seven Hills of Rome. The Capitolium (as it became known) was regarded
+        by the Romans as indestructible, and was adopted as a symbol of eternity.  The Capitoline Hill
+        contains few ancient ground-level ruins, as they are almost entirely covered up by Medieval
+        and Renaissance palaces (now housing the Capitoline Museums) that surround a piazza, a significant
+        urban plan designed by famous sculpture, painter, architect, and poet - Michelangelo.</string>
+    <string name="altare_della_patria_name">Altare della Patria</string>
+    <string name="altare_della_patria_address">ADDRESS:\nPiazza Venezia, 00186 Roma RM, Italy</string>
+    <string name="altare_della_patria_phone">PHONE:\n+39 06 678 0664</string>
+    <string name="altare_della_patria_hours">HOURS:\nEveryday 9:00am - 7:00pm</string>
+    <string name="altare_della_patria_description">ABOUT:\nThe Altare della Patria (English: \"Altar of the Fatherland\"),
+        also known as the Monumento Nazionale a Vittorio Emanuele II (\"National Monument to Victor Emmanuel II\")
+        or Il Vittoriano, is a monument built in honor of Victor Emmanuel, the first king of a unified Italy,
+        located in Rome, Italy. It occupies a site between the Piazza Venezia and the Capitoline Hill.
+        The Vittoriano features stairways, Corinthian columns, fountains, an equestrian sculpture of
+        Victor Emmanuel and two statues of the goddess Victoria riding on quadrigas. The base of the
+        structure houses the museum of Italian Unification.</string>
+    <string name="trajans_column_name">Trajan\'s Column</string>
+    <string name="trajans_column_address">ADDRESS:\nVia dei Fori Imperiali, 00187 Roma RM, Italy</string>
+    <string name="trajans_column_phone">PHONE:\nNo Phone Number</string>
+    <string name="trajans_column_hours">HOURS:\nOpen 24 Hours</string>
+    <string name="trajans_column_description">ABOUT:\nTrajan\'s Column is a Roman triumphal column in Rome, Italy,
+        that commemorates Roman emperor Trajan\'s victory in the Dacian Wars.  It is located in Trajan\'s
+        Forum, north of the Roman Forum. Completed in AD 113, the freestanding column is most famous for
+        its spiral bas relief, which artistically represents the wars between the Romans and Dacians
+        (101–102 and 105–106). Its design has inspired numerous victory columns, both ancient and modern.</string>
+    <string name="trajans_market_name">Trajan\'s Market</string>
+    <string name="trajans_market_address">ADDRESS:\nVia Quattro Novembre, 94, 00187 Roma RM, Italy</string>
+    <string name="trajans_market_phone">PHONE:\n+39 06 0608</string>
+    <string name="trajans_market_hours">HOURS:\nEveryday 9:30am - 7:30pm</string>
+    <string name="trajans_market_description">ABOUT:\nTrajan\'s Market is a large complex of ruins in the city
+        of Rome, Italy. Located on the Via dei Fori Imperiali, at the opposite end to the Colosseum.
+        Thought to be the world\'s oldest shopping mall, the arcades in Trajan\'s Market are now believed
+        by many to be administrative offices for Emperor Trajan. The shops and apartments were built
+        in a multi-level structure and it is still possible to visit several of the levels. Highlights
+        include delicate marble floors and the remains of a library.</string>
+    <string name="basilica_maggiore_name">Basilica Papale di Santa Maria Maggiore</string>
+    <string name="basilica_maggiore_address">ADDRESS:\nPiazza di S. Maria Maggiore, 42, 00100 Roma RM, Italy</string>
+    <string name="basilica_maggiore_phone">PHONE:\n+39 06 6988 6800</string>
+    <string name="basilica_maggiore_hours">HOURS:\nEveryday 7:00am - 7:00pm</string>
+    <string name="basilica_maggiore_description">ABOUT:\nThe Basilica di Santa Maria Maggiore or church of
+        Santa Maria Maggiore, is a Papal major basilica and the largest Catholic Marian church in Rome, Italy.
+        The basilica enshrines the venerated image of Salus Populi Romani, depicting the Blessed Virgin
+        Mary as the help and protectress of the Roman people, which was granted a Canonical coronation
+        by Pope Gregory XVI on 15 August 1838 accompanied by his Papal bull Cælestis Regina.</string>
+    <string name="trevi_fountain_name">Trevi Fountain</string>
+    <string name="trevi_fountain_address">ADDRESS:\nPiazza di Trevi, 00187 Roma RM, Italy</string>
+    <string name="trevi_fountain_phone">PHONE:\nNo Phone Number</string>
+    <string name="trevi_fountain_hours">HOURS:\nOpen 24 hours</string>
+    <string name="trevi_fountain_description">ABOUT:\nThe Trevi Fountain is a fountain in the Trevi district
+        in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini.
+        Standing 26.3 metres (86 ft) high and 49.15 metres (161.3 ft) wide, it is the largest Baroque
+        fountain in the city and one of the most famous fountains in the world. The fountain has appeared
+        in several notable films, including Federico Fellini\'s "La Dolce Vita", the eponymous
+        \"Three Coins in the Fountain\", and \"Roman Holiday\".</string>
+    <string name="pantheon_name">Pantheon</string>
+    <string name="pantheon_address">ADDRESS:\nPiazza della Rotonda, 00186 Roma RM, Italy</string>
+    <string name="pantheon_phone">PHONE:\n+39 06 6830 0230</string>
+    <string name="pantheon_hours">HOURS:\nMonday - Saturday 9:00am - 6:00pm\nSunday 8:30am - 7:30pm</string>
+    <string name="pantheon_description">ABOUT:\nThe Pantheon (from the Greek: Pantheion, \"[temple] of all the gods\")
+        is a former Roman temple, now a church, in Rome, Italy, on the site of an earlier temple commissioned
+        by Marcus Agrippa during the reign of Augustus (27 BC - 14 AD). It was completed by the emperor
+        Hadrian and probably dedicated around 126 AD. Its date of construction is uncertain, because
+        Hadrian chose not to inscribe the new temple but rather to retain the inscription of Agrippa\'s
+        older temple, which had burned down.</string>
+    <string name="fontana_quattro_fiumi_name">Fontana dei Quattro Fiumi</string>
+    <string name="fontana_quattro_fiumi_address">ADDRESS:\nPiazza Navona, 00186 Roma RM, Italy</string>
+    <string name="fontana_quattro_fiumi_phone">PHONE:\nNo Phone Number</string>
+    <string name="fontana_quattro_fiumi_hours">HOURS:\nOpen 24 hours</string>
+    <string name="fontana_quattro_fiumi_description">ABOUT:\nFontana dei Quattro Fiumi (Fountain of the Four
+        Rivers) is a fountain in the Piazza Navona in Rome, Italy. It was designed in 1651 by Gian
+        Lorenzo Bernini for Pope Innocent X whose family palace, the Palazzo Pamphili, faced onto the
+        piazza as did the church of Sant\'Agnese in Agone of which Innocent was the sponsor.</string>
+    <string name="piazza_navona_name">Piazza Navona</string>
+    <string name="piazza_navona_address">ADDRESS:\nPiazza Navona, 00186 Roma RM, Italy</string>
+    <string name="piazza_navona_phone">PHONE:\nNo Phone Number</string>
+    <string name="piazza_navona_hours">HOURS:\nOpen 24 hours</string>
+    <string name="piazza_navona_description">ABOUT:\nPiazza Navona is a square in Rome, Italy. It is built on
+        the site of the Stadium of Domitian, built in the 1st century AD, and follows the form of the
+        open space of the stadium. The ancient Romans went there to watch the agones (games), and
+        hence it was known as \"Circus Agonalis\" (\"Competition Arena\"). It is believed that over time
+        the name changed to \"in avone\" then to \"navone\" and eventually to \"navona\".</string>
+    <string name="castel_sant_angelo_name">Castel Sant\'Angelo</string>
+    <string name="castel_sant_angelo_address">ADDRESS:\nLungotevere Castello, 50, 00193 Roma RM, Italy</string>
+    <string name="castel_sant_angelo_phone">PHONE:\n+39 06 32810</string>
+    <string name="castel_sant_angelo_hours">HOURS:\nEveryday 9:00am - 7:30pm</string>
+    <string name="castel_sant_angelo_description">ABOUT:\nThe Mausoleum of Hadrian, usually known as Castel
+        Sant\'Angelo (Castle of the Holy Angel), is a towering cylindrical building in Parco Adriano,
+        Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for
+        himself and his family. The building was later used by the popes as a fortress and castle,
+        and is now a museum. The structure was once the tallest building in Rome.</string>
+    <string name="st_peter_square_name">St. Peter\'s Square</string>
+    <string name="st_peter_square_address">ADDRESS:\nPiazza San Pietro, 00120 Città del Vaticano, Vatican City</string>
+    <string name="st_peter_square_phone">PHONE:\n+39 06 6988 1840</string>
+    <string name="st_peter_square_hours">HOURS:\nOpen 24 Hours</string>
+    <string name="st_peter_square_description">ABOUT:\nSt. Peter\'s Square is a large plaza located directly
+        in front of St. Peter\'s Basilica in the Vatican City, the papal enclave inside Rome,
+        directly west of the neighbourhood or rione of Borgo. Both the square and the basilica are
+        named after Saint Peter, an apostle of Jesus and the first Catholic Pope. At the centre of
+        the square there is an ancient Egyptian obelisk, erected at the current site in 1586.</string>
+    <string name="st_peter_basilica_name">St. Peter\'s Basilica</string>
+    <string name="st_peter_basilica_address">ADDRESS:\nPiazza San Pietro, 00120 Città del Vaticano, Vatican City</string>
+    <string name="st_peter_basilica_phone">PHONE:\n+39 06 6988 3731</string>
+    <string name="st_peter_basilica_hours">HOURS:\nEveryday 7:00am - 6:30pm</string>
+    <string name="st_peter_basilica_description">ABOUT:\nThe Papal Basilica of St. Peter in the Vatican or simply
+        St. Peter\'s Basilica is an Italian Renaissance church in Vatican City, the papal enclave within
+        the city of Rome. Designed principally by Donato Bramante, Michelangelo, Carlo Maderno and
+        Gian Lorenzo Bernini, St. Peter\'s is the most renowned work of Renaissance architecture and
+        the largest church in the world. While it is neither the mother church of the Catholic Church
+        nor the cathedral of the Diocese of Rome, St. Peter\'s is regarded as one of the holiest Catholic shrines.</string>
+    <string name="sistine_chapel_name">Sistine Chapel</string>
+    <string name="sistine_chapel_address">ADDRESS:\nCitta del Vaticano 1, 00120 Vatican City, Italy</string>
+    <string name="sistine_chapel_phone">PHONE:\n+39 06 6988 4676</string>
+    <string name="sistine_chapel_hours">HOURS:\nMonday - Saturday 9:00am - 4:00pm\nSunday Closed</string>
+    <string name="sistine_chapel_description">ABOUT:\nThe Sistine Chapel is a chapel in the Apostolic Palace,
+        the official residence of the Pope, in Vatican City. Originally known as the Cappella Magna,
+        the chapel takes its name from Pope Sixtus IV, who restored it between 1477 and 1480. Since
+        that time, the chapel has served as a place of both religious and functionary papal activity.
+        Today it is the site of the Papal conclave, the process by which a new pope is selected. The
+        fame of the Sistine Chapel lies mainly in the frescos that decorate the interior, and most
+        particularly the Sistine Chapel ceiling and The Last Judgment by Michelangelo.</string>
+    <string name="vatican_museums_name">Vatican Museums</string>
+    <string name="vatican_museums_address">ADDRESS:\nViale Vaticano, 00120 Vatican City, Italy</string>
+    <string name="vatican_museums_phone">PHONE:\n+39 06 69884676</string>
+    <string name="vatican_museums_hours">HOURS:\nMonday - Saturday 9:00am - 6:00pm\nEvery Last Sunday
+        Of The Month 9:00am - 2:00pm</string>
+    <string name="vatican_museums_description">ABOUT:\nThe Vatican Museums are Christian and art museums
+        located within the city boundaries of the Vatican City. They display works from the immense
+        collection amassed by Popes throughout the centuries including some of the most renowned
+        classical sculptures and most important masterpieces of Renaissance art in the world. The
+        museums contain roughly 70,000 works, of which 20,000 are on display, and currently employ
+        640 people who work in 40 different administrative, scholarly, and restoration departments.</string>
+    <string name="spanish_steps_name">Spanish Steps</string>
+    <string name="spanish_steps_address">ADDRESS:\nPiazza di Spagna, 00187 Roma RM, Italy</string>
+    <string name="spanish_steps_phone">PHONE:\n+39 090 8388 1200</string>
+    <string name="spanish_steps_hours">HOURS:\nOpen 24 Hours</string>
+    <string name="spanish_steps_description">ABOUT:\nThe Spanish Steps are a set of steps in Rome, Italy,
+        climbing a steep slope between the Piazza di Spagna at the base and Piazza Trinità dei Monti,
+        dominated by the Trinità dei Monti church at the top. The monumental stairway of 135 steps
+        (the slightly elevated drainage system is often mistaken for the first step) was built with
+        French diplomat Étienne Gueffier’s bequeathed funds of 20,000 scudi, in 1723–1725.</string>
+    <string name="galleria_borghese_name">Galleria Borghese</string>
+    <string name="galleria_borghese_address">ADDRESS:\nPiazzale Scipione Borghese, 5, 00197 Roma RM, Italy</string>
+    <string name="galleria_borghese_phone">PHONE:\n+39 06 32810</string>
+    <string name="galleria_borghese_hours">HOURS:\nTuesday - Sunday 9:00am - 7:00pm\nMonday Closed</string>
+    <string name="galleria_borghese_description">ABOUT:\nThe Galleria Borghese (Borghese Gallery) is an art
+        gallery in Rome, Italy, housed in the former Villa Borghese Pinciana. At the outset, the
+        gallery building was integrated with its gardens, but today, the Villa Borghese gardens are
+        considered a separate tourist attraction. The Galleria Borghese houses a substantial part of
+        the Borghese collection of paintings, sculpture and antiquities, begun by Cardinal Scipione
+        Borghese, the nephew of Pope Paul V. The Villa was built by the architect Flaminio Ponzio,
+        developing sketches by Scipione Borghese himself, who used it as a villa suburbana, a country
+        villa at the edge of Rome.</string>
+    <string name="piazza_del_popolo_name">Piazza del Popolo</string>
+    <string name="piazza_del_popolo_address">ADDRESS:\nPiazza del Popolo, 00187 Roma RM, Italy</string>
+    <string name="piazza_del_popolo_phone">PHONE:\nNo Phone Number</string>
+    <string name="piazza_del_popolo_hours">HOURS:\nOpen 24 Hours</string>
+    <string name="piazza_del_popolo_description">ABOUT:\nPiazza del Popolo is a large urban square in Rome.
+        The name in modern Italian literally means \"People\'s Square\", but historically it derives
+        from the poplars after which the church of Santa Maria del Popolo, in the northeast corner
+        of the piazza, takes its name. The piazza lies inside the northern gate in the Aurelian Walls,
+        once the Porta Flaminia of ancient Rome, and now called the Porta del Popolo. This was the
+        traveller\'s first view of Rome upon arrival. For centuries, the Piazza del Popolo was a place
+        for public executions, the last of which took place in 1826.</string>
+    <string name="ristorante_pepe_rosa_name">Ristorante Pepe Rosa</string>
+    <string name="ristorante_pepe_rosa_address">ADDRESS:\nVia Degli Orti di Cesare &#8531; | Near
+        Stazione Trastevere, 00153 Rome, Italy</string>
+    <string name="ristorante_pepe_rosa_phone">PHONE:\n+39 06 6941 2532</string>
+    <string name="ristorante_pepe_rosa_hours">HOURS:\nMonday Closed\nTuesday - Thursday 12:00pm - 3:00pm
+        and 7:00pm - 10:30pm\nFriday - Sunday 12:00pm - 3:00pm and 7:00pm - 11:00pm</string>
+    <string name="ristorante_pepe_rosa_description">ABOUT:\nCasareccia cuisine in an intimate and welcoming
+        atmosphere near Trastevere station. Staff young, friendly and helpful to your requests.
+        Traditional Roman cuisine and other specialities await you.</string>
+    <string name="il_tamburello_pulcinella_name">Il Tamburello di Pulcinella</string>
+    <string name="il_tamburello_pulcinella_address">ADDRESS:\nVia Pasquale Fiore 23, 00165 Rome, Italy</string>
+    <string name="il_tamburello_pulcinella_phone">PHONE:\n+39 329 285 1794</string>
+    <string name="il_tamburello_pulcinella_hours">HOURS:\nTuesday - Sunday 7:00pm - 12:00am\nMonday Closed</string>
+    <string name="il_tamburello_pulcinella_description">ABOUT:\nThe Tamburelli specialties are unique and original
+        dishes. The best of Campanian and Mediterranean cuisine, revisited by the aged chef Corrado
+        Talamo, award-winning, with over 40 years of experience and some successful books to his credit,
+        such as the encyclopedic book, \"La Storia della Cucina\", also downloadable online.</string>
+    <string name="tonnarello_name">Tonnarello</string>
+    <string name="tonnarello_address">ADDRESS:\nVia della Paglia 1, 00153 Rome, Italy</string>
+    <string name="tonnarello_phone">PHONE:\n+39 06 580 6404</string>
+    <string name="tonnarello_hours">HOURS:\nEveryday 8:00am - 12:00am</string>
+    <string name="tonnarello_description">ABOUT:\nWe are in the heart of the Roman tradition, in the center
+        of culture, at the highest density point of the capital\'s restaurants. This is why we must
+        be head and shoulders above the rest in our sector. We offer you Roman dishes at their best, a
+        staff at your disposal that will always welcome you with a smile and all the space of our 5
+        rooms at your disposal. Each ingredient is carefully selected, the presentation of our dishes is never
+        left to chance, and our staff in the room are trained to give you the best of experiences.
+        We do not talk about Tiramisù, you have to come and taste it.</string>
+    <string name="burger_bistrot_name">Burger Bistrot</string>
+    <string name="burger_bistrot_address">ADDRESS:\nVia Cavour 291, 00184 Rome, Italy</string>
+    <string name="burger_bistrot_phone">PHONE:\n+39 06 487 4461</string>
+    <string name="burger_bistrot_hours">HOURS:\nMonday - Thursday 12:00pm - 3:00pm and 6:00pm - 10:00pm\n
+        Friday - Sunday 12:00pm - 10:00pm</string>
+    <string name="burger_bistrot_description">ABOUT:\nBurger Bistrot was born in October 2017 from the idea
+        of ​​two Roman boys with the intent to bring innovation into one of the most eaten dishes in the
+        world. We are the first \"hamburgeria\" in Rome where you can eat a hamburger cooked in a vacuum,
+        a process that makes it juicy and never dry.</string>
+    <string name="mimi_e_coco_name">Mimi e Coco</string>
+    <string name="mimi_e_coco_address">ADDRESS:\nVia del Governo Vecchio 72, 00186 Rome, Italy</string>
+    <string name="mimi_e_coco_phone">PHONE:\n+39 06 6821 0845</string>
+    <string name="mimi_e_coco_hours">HOURS:\nEveryday 9:00am - 2:00am</string>
+    <string name="mimi_e_coco_description">ABOUT:\nRight in the heart of Rome, there\'s a place where the sun
+        always shines. It\'s where you can find us. Cosy and inviting, located in what was once a
+        16th century Bishop\'s Palace, ours is the perfect location for anyone who wants to relish
+        an easy going and comfortable mood on the set of Rome\'s bustling nightlife. With a vas
+        assortment of wines, a special eye to Italian ones, you can find platters of cold meats
+        and cheese or traditional dishes such as carbonara or straccetti. You can also enjoy a
+        Traminer with a Pizza Margherita, a fresh mixed salad and our hallmark crostini of potatoes
+        with a choice of \"provola cheese and vegetables\" or \"speck and porcini mushrooms\"! To finish
+        with style you can try our yummy Illy Tiramisù served warm and made on the spot for you.</string>
+    <string name="cantina_e_cucina_name">Cantina e Cucina</string>
+    <string name="cantina_e_cucina_address">ADDRESS:\nVia del Governo Vecchio 87, 00186 Rome, Italy</string>
+    <string name="cantina_e_cucina_phone">PHONE:\n+39 06 689 2574</string>
+    <string name="cantina_e_cucina_hours">HOURS:\nMonday - Saturday 7:00am - 2:00am\nSunday 8:00am - 2:00am</string>
+    <string name="cantina_e_cucina_description">ABOUT:\nEating is an emotional experience. We take care to
+        create the best atmosphere, with staff that takes care of you to make you feel at home. Our
+        cooks and pizza makers are accustomed to a high level of attention to detail, with food cooked
+        specifically for you. Your satisfaction is all we crave. A good meal is not just something
+        that fills the stomach, but something pleasant that should never be forgotten.</string>
+    <string name="arrosticino_pane_vino_name">Arrosticino Pane and Vino</string>
+    <string name="arrosticino_pane_vino_address">ADDRESS:\nVia Selinunte 59,61, 00174 Rome, Italy</string>
+    <string name="arrosticino_pane_vino_phone">PHONE:\n+39 06 9978 2715</string>
+    <string name="arrosticino_pane_vino_hours">HOURS:\nTuesday - Sunday 7:00pm - 11:45pm\nMonday Closed</string>
+    <string name="arrosticino_pane_vino_description">ABOUT:\nServing a good selection of Italian, barbecue
+        and gluten free options.  It\'s a great place for local cuisine, special occasions, large
+        groups and families with children.</string>
+    <string name="alchimia_foodlab_name">Alchimia Foodlab</string>
+    <string name="alchimia_foodlab_address">ADDRESS:\nVia Vercelli 6, 00182 Rome, Italy</string>
+    <string name="alchimia_foodlab_phone">PHONE:\n+39 366 207 7143</string>
+    <string name="alchimia_foodlab_hours">HOURS:\nMonday 7:00pm - 10:30pm\nTuesday - Friday 12:30pm - 3:30pm and
+        7:00pm - 10:30pm\nSaturday 9:00am - 10:30pm\nSunday Closed</string>
+    <string name="alchimia_foodlab_description">ABOUT:\nAs Alchemists create gold, we transform the raw material
+        to create healthy dishes and haute cuisine, in a quick and practical solution to be consumed
+        on the street, at work or at home.  We serve a great selection of Italian, seafood, European,
+        healthy, street food, mediterranean, vegetarian friendly, vegan options and gluten free options.</string>
+    <string name="osti_matti_name">Osti Matti</string>
+    <string name="osti_matti_address">ADDRESS:\nVia Assisi 11/A, 00181 Rome, Italy</string>
+    <string name="osti_matti_phone">PHONE:\n+39 06 7839 3610</string>
+    <string name="osti_matti_hours">HOURS:\nMonday - Friday 7:30pm - 10:30pm\nSaturday - Sunday 12:30pm - 2:30pm and
+        7:30pm - 10:30pm</string>
+    <string name="osti_matti_description">ABOUT:\nBefore being a trattoria, Osti Matti wants to be a project
+        to rediscover ancient flavors. Passion, love and care, this is the starting point for all
+        great meals.  Osti Matti is a great dining location for families with children, special
+        occasions, romantic nights out and local cuisine.</string>
+    <string name="the_loft_name">The Loft</string>
+    <string name="the_loft_address">ADDRESS:\nVia Leone IV 34 | Intersection with Via Giulio Cesare, 00192 Rome, Italy</string>
+    <string name="the_loft_phone">PHONE:\n+39 347 004 5169</string>
+    <string name="the_loft_hours">HOURS:\nEveryday 7:00am - 2:00am\nExcept Tuesday and Thursday 7:00am - 12:00am</string>
+    <string name="the_loft_description">ABOUT:\nFamily friendly restaurant serving Italian, brew pub, fast food,
+        cafe, Mediterranean, European, vegetarian, vegan and gluten free options.</string>
+    <string name="otello_name">Otello</string>
+    <string name="otello_address">ADDRESS:\nVia della Pelliccia 47/53 | Trastevere, 00153 Rome, Italy</string>
+    <string name="otello_phone">PHONE:\n+39 06 589 6848</string>
+    <string name="otello_hours">HOURS:\nEveryday 11:00am - 1:00am</string>
+    <string name="otello_description">ABOUT:\nFamily friendly restaurant that also accommodates large groups.
+        Serving a great selection of Italian, vegetarian, vegan and gluten free food choices.</string>
+    <string name="armando_al_pantheon_name">Armando al Pantheon</string>
+    <string name="armando_al_pantheon_address">ADDRESS:\nSalita dei Crescenzi, 31, 00186 Roma RM, Italy</string>
+    <string name="armando_al_pantheon_phone">PHONE:\n+39 06 6880 3034</string>
+    <string name="armando_al_pantheon_hours">HOURS:\nMonday - Saturday 12:30pm - 2:45pm and 7:00pm - 11:00pm\n
+        Sunday Closed</string>
+    <string name="armando_al_pantheon_description">ABOUT:\nA long-standing family friendly restaurant serving
+        hearty, traditional Roman fare in a wood-paneled dining room. Vegetarian and gluten free
+        options are available as well.</string>
+    <string name="palazzo_manfredi_name">Palazzo Manfredi</string>
+    <string name="palazzo_manfredi_address">ADDRESS:\nVia Labicana, 125, Rome, RM, 00184, Italy</string>
+    <string name="palazzo_manfredi_phone">PHONE:\n+39 06 77591380</string>
+    <string name="palazzo_manfredi_website">WEBSITE:\nhttps://www.palazzomanfredi.com</string>
+    <string name="palazzo_manfredi_description">ABOUT:\n5 Star Hotel - Palazzo Manfredi is a magnificent
+        historic villa that today serves as five-star hotel offering the tradition and warm hospitality
+        of the Counts Manfredi. Every detail is a family jewel, from the spectacular view of the
+        Colosseum, to the courtesy of our staff, the classic and contemporary elegance of the decor,
+        and our sophisticated restaurant on one of Rome\'s most romantic terraces. History is on our
+        doorstep, but true luxury is being part of a great family\'s history.</string>
+    <string name="palazzo_montemartini_name">Palazzo Montemartini</string>
+    <string name="palazzo_montemartini_address">ADDRESS:\nLargo Giovanni Montemartini 20, 00185 Rome, Italy</string>
+    <string name="palazzo_montemartini_phone">PHONE:\n+39 06 45661</string>
+    <string name="palazzo_montemartini_website">WEBSITE:\nhttp://www.palazzomontemartini.com</string>
+    <string name="palazzo_montemartini_description">ABOUT:\n5 Star Hotel - Palazzo Montemartini is a 3-minute
+        walk from the nearest metro station, this contemporary hotel in a stately former palazzo is a
+        minute\'s stroll from the National Roman Museum\'s Baths of Diocletian. Individually decorated
+        rooms feature hardwood floors and chic furnishings, and include flat-screen TVs, free Wi-Fi and
+        minibars. Distinctive touches in individual suites include private spas, fitness equipment and
+        lounges, as well as terraces with scenic city views.</string>
+    <string name="iq_hotel_roma_name">iQ Hotel Roma</string>
+    <string name="iq_hotel_roma_address">ADDRESS:\nVia Firenze, 8, 00184 Rome, Italy</string>
+    <string name="iq_hotel_roma_phone">PHONE:\n011 39 06 9480 7545</string>
+    <string name="iq_hotel_roma_website">WEBSITE:\nhttps://www.iqhotelroma.it</string>
+    <string name="iq_hotel_roma_description">ABOUT:\nIQ Hotel Roma is a 4 star hotel, with a twist! Located
+        in downtown Rome, just a short 15 minute walk from the Trevi Fountain or the Colosseum and
+        with Repubblica metro station just 200 metres away, hotels don\'t get much more central than this.
+        IQ guests enjoy free Wi-Fi connection throughout the hotel, a lovely terrace to unwind while
+        overlooking the Opera House, and free access to our gym and sauna. IQ offers very competitive
+        prices. Now that you\'ve found us, welcome to a whole new hotel experience!</string>
+    <string name="voi_donna_camilla_savelli_name">VOI Donna Camilla Savelli</string>
+    <string name="voi_donna_camilla_savelli_address">ADDRESS:\nVia Garibaldi 27, 98043 Rome, Italy</string>
+    <string name="voi_donna_camilla_savelli_phone">PHONE:\n011 39 06 588861</string>
+    <string name="voi_donna_camilla_savelli_website">WEBSITE:\nhttps://www.voihotels.com</string>
+    <string name="voi_donna_camilla_savelli_description">ABOUT:\n4 Star Hotel - VOI Donna Camilla Savelli is
+        set in a converted 17th-century convent in the Trastevere district, this refined hotel lies
+        a minute\'s walk from a bus stop, 2.4 km from the Sistine Chapel and 2.9 km from the Colosseum.
+        Featuring tile floors, the elegant rooms include free Wi-Fi, flat-screen TVs and minibars. Room
+        service is available. Upgraded rooms feature antique furniture, while suites add separate living
+        areas. The hotel provides complimentary, American-style breakfast.</string>
+    <string name="britannia_hotel_name">The Britannia Hotel</string>
+    <string name="britannia_hotel_address">ADDRESS:\nVia Napoli 64, 00184 Rome, Italy</string>
+    <string name="britannia_hotel_phone">PHONE:\n011 39 06 9480 7071</string>
+    <string name="britannia_hotel_website">WEBSITE:\nhttp://www.maghotels.it/ita/the-britannia-hotel/index.html</string>
+    <string name="britannia_hotel_description">ABOUT:\n4 Star Hotel - The Britannia Hotel is in the centre of
+        Rome, only 200 meters from the Teatro dell\'Opera opera house and the Repubblica metro station.
+        An elegant nineteenth century building houses The Britannia Hotel, a refined boutique hotel
+        with a particularly British atmosphere. These intimate and elegant chambers are equipped with
+        top quality linen, private bathrooms with spacious showers or baths, satellite TV with LCD
+        screens, a free high-speed Wi-Fi internet connection, a safe, an ironing board and a UV sun
+        lamp. We also offer guests a selection of free items in the mini-bar upon arrival.</string>
+    <string name="hotel_santa_maria_name">Hotel Santa Maria</string>
+    <string name="hotel_santa_maria_address">ADDRESS:\nVicolo del Piede 2, 00153 Rome, Italy</string>
+    <string name="hotel_santa_maria_phone">PHONE:\n011 39 06 589 4626</string>
+    <string name="hotel_santa_maria_website">WEBSITE:\nhttps://www.hotelsantamariatrastevere.it</string>
+    <string name="hotel_santa_maria_description">ABOUT:\n3 Star Hotel - Hotel Santa Maria was awarded the
+        Certificate of Excellence and ranked in the top 10 hotels in Rome by TripAdvisor. The Hotel
+        Santa Maria Rome is situated in the charming district of Trastevere. Consistently rated by
+        guests as a fantastic hotel which offers excellent value for money. The Hotel Santa Maria is
+        situated in a completely renovated 16th Century cloister offering 19 comfortable rooms and
+        positioned within walking distance of the major archaeological and tourist sites of Rome.</string>
+    <string name="cardilli_luxury_rooms_name">Cardilli Luxury Rooms</string>
+    <string name="cardilli_luxury_rooms_address">ADDRESS:\nVia Milano 49, 00184 Rome, Italy</string>
+    <string name="cardilli_luxury_rooms_phone">PHONE:\n011 39 0773 198 0042</string>
+    <string name="cardilli_luxury_rooms_website">WEBSITE:\nhttp://www.bbromacardilli.com</string>
+    <string name="cardilli_luxury_rooms_description">ABOUT:\n4 Star Hotel - Cardilli Luxury Rooms is a 7-minute
+        walk from the nearest metro stop. This intimate hotel in Rome\'s historic center lies 1.1 km
+        from the Roman Forum and 1.3 km from the Colosseum.  Refined rooms and suites with soundproof
+        windows, private bathrooms, free Wi-Fi, TVs and minibars. Suites add separate sitting
+        areas. Room service is offered. Free breakfast is served in an elegant dining room. Pets are welcome.</string>
+    <string name="martis_palace_hotel_name">Martis Palace Hotel Rome</string>
+    <string name="martis_palace_hotel_address">ADDRESS:\nVia San Giuseppe Calasanzio 1, 00186 Rome, Italy</string>
+    <string name="martis_palace_hotel_phone">PHONE:\n011 39 06 9480 8158</string>
+    <string name="martis_palace_hotel_website">WEBSITE:\nhttps://www.hotelmartis.com</string>
+    <string name="martis_palace_hotel_description">ABOUT:\n4 Star Hotel - Martis Palace Hotel Rome is in a
+        stately neoclassical building surrounded by shops and eateries. This polished hotel is a
+        3-minute walk from Piazza Navona, a landmark square with fountains, and 3 km from Termini
+        train station.  Warmly furnished rooms have free Wi-Fi and flat-screen TVs, as well as minibars
+        and laptop-sized safes. Elegant suites add sitting areas; some include 4-poster beds. Other
+        amenities include a rooftop terrace and a sophisticated guest lounge.</string>
+    <string name="campo_marzio_luxury_suites_name">Campo Marzio Luxury Suites</string>
+    <string name="campo_marzio_luxury_suites_address">ADDRESS:\nVia di Campo Marzio 52/a, Rome, Italy</string>
+    <string name="campo_marzio_luxury_suites_phone">PHONE:\n+39 06 8767 9475</string>
+    <string name="campo_marzio_luxury_suites_website">WEBSITE:\nhttp://www.suites4rome.com</string>
+    <string name="campo_marzio_luxury_suites_description">ABOUT:\n4 Star Hotel - Campo Marzio Luxury Suites
+        is in an historic building on a cobblestone street. This polished hotel is an 8-minute walk
+        from both the Trevi Fountain and Piazza Navona. It\'s 2 km from Roma Termini train station.
+        Warm, understated rooms and suites come with complimentary Wi-Fi, flat-screen TVs and minibars;
+        some add exposed brick walls. An upgraded suite has a sitting area and a free-standing tub.
+        In-room continental breakfast is included.Parking is offered for a fee.</string>
+    <string name="mamas_home_name">Mama\'s Home Rome</string>
+    <string name="mamas_home_address">ADDRESS:\nPiazza Campo de\' Fiori, 27, 00186 Roma RM, Italy</string>
+    <string name="mamas_home_phone">PHONE:\n+39 335 437 211</string>
+    <string name="mamas_home_website">WEBSITE:\nhttp://www.mamashomerome.com</string>
+    <string name="mamas_home_description">ABOUT:\n4 Star Hotel - Mama\'s Home Rome overlooks the Campo
+        de\' Fiori square.  This upscale all-suite hotel in a 14th-century home is an 8-minute walk
+        from the ancient Pantheon temple, 1 km from the 2nd-century Castel Sant\'Angelo and 2 km from
+        the Colosseum. Chic suites with sleek decor and wood ceiling beams have free Wi-Fi,
+        flat-screen TVs and Nespresso machines; some feature in-room, claw-foot tubs. Upgraded suites
+        offer views of the square. Bike rentals are available, as is chauffeur service from the airport
+        or train station for a fee.</string>
+    <string name="rome_life_hotel_name">Rome Life Hotel</string>
+    <string name="rome_life_hotel_address">ADDRESS:\nVia Palermo, 10, 00184 Roma RM, Italy</string>
+    <string name="rome_life_hotel_phone">PHONE:\n+39 06 9929 1210</string>
+    <string name="rome_life_hotel_website">WEBSITE:\nhttp://www.romelifehotel.com</string>
+    <string name="rome_life_hotel_description">ABOUT:\n4 Star Hotel - Rome Life Hotel is a chic downtown hotel
+        with a wooden facade. It\'s an 8-minute walk from a metro stop and 1.3 km from the Colosseum.  The
+        upscale, modern rooms include free Wi-Fi, 107-cm flat-screen HDTVs with satellite channels,
+        minibars, and tea and coffeemakers. The hotel serves a complimentary breakfast buffet in a
+        contemporary dining room. There\'s a similarly styled bar and a 24/7 front desk.</string>
+    <string name="inn_at_roman_forum_name">The Inn at the Roman Forum</string>
+    <string name="inn_at_roman_forum_address">ADDRESS:\nVia degli Ibernesi, 30, 00184 Roma RM, Italy</string>
+    <string name="inn_at_roman_forum_phone">PHONE:\n+39 06 6919 0970</string>
+    <string name="inn_at_roman_forum_website">WEBSITE:\nhttp://www.theinnattheromanforum.com</string>
+    <string name="inn_at_roman_forum_description">ABOUT:\n5 Star Hotel - The Inn at the Roman Forum is a
+        4-minute walk from the bus station, this upscale urban hotel with Roman ruins and an annex is
+        also 12 minutes from the Colosseum. The plush, elegant rooms offer free Wi-Fi, flat-screen
+        TVs and iPod docks, plus minibars. Upgraded rooms have Jacuzzis. Some have fireplaces or
+        sitting areas, and suites including sitting rooms. Upgraded suites have patios with rooftop
+        access.  Other amenities include a business center, a lounge with a fireplace, and an ancient
+        crypt with 2000-year-old stone engravings.</string>
+    <string name="hotel_raphael_name">Hotel Raphaël</string>
+    <string name="hotel_raphael_address">ADDRESS:\nLargo Febo, 2, 00186 Roma RM, Italy</string>
+    <string name="hotel_raphael_phone">PHONE:\n+39 06 682831</string>
+    <string name="hotel_raphael_website">WEBSITE:\nhttp://www.raphaelhotel.com</string>
+    <string name="hotel_raphael_description">ABOUT:\n5 Star Hotel - Hotel Raphaël is a 2-minute walk from the
+        1st-century Piazza Navona and the bus station. This sophisticated, ivy-covered hotel is a 14-minute
+        walk from the famous Trevi Fountain. The warmly decorated, upscale rooms offer free Wi-Fi,
+        flat-screen TVs and minibars. Some of the upgraded rooms have terraces, and elegant suites
+        include living rooms. Some have private balconies. There\'s a refined restaurant with seasonal
+        outdoor seating, plus an on-site museum and an art gallery.</string>
+    <string name="nh_collection_cinquecento_name">NH Collection Roma Palazzo Cinquecento</string>
+    <string name="nh_collection_cinquecento_address">ADDRESS:\nPiazza dei Cinquecento, 90, 00185 Roma RM, Italy</string>
+    <string name="nh_collection_cinquecento_phone">PHONE:\n+39 06 492221</string>
+    <string name="nh_collection_cinquecento_website">WEBSITE:\nhttps://www.nh-hotels.com/hotel/nh-collection
+        -roma-palazzo-cinquecento?gmb=new</string>
+    <string name="nh_collection_cinquecento_description">ABOUT:\n5 Star Hotel - NH Collection Roma Palazzo
+        Cinquecento overlooks Piazza dei Cinquecento and adjacent to Roma Termini train station. This
+        upmarket hotel fronted by a garden with Roman ruins is 2 km from the Colosseum. The contemporary
+        rooms come with free Wi-Fi and flat-screen TVs, plus minibars, espresso machines and rainfall
+        showers. Upgraded quarters provide sitting areas and/or terraces, while suites offer separate
+        living areas with sofabeds.</string>
+    <string name="pantheon_caesar_relais_name">Pantheon Caesar Relais</string>
+    <string name="pantheon_caesar_relais_address">ADDRESS:\nVicolo di S. Nicola de\' Cesarini, 2, 00148
+        Roma RM, Italy</string>
+    <string name="pantheon_caesar_relais_phone">PHONE:\n+39 06 6880 5850</string>
+    <string name="pantheon_caesar_relais_website">WEBSITE:\nhttps://www.pantheoncaesarrelais.it</string>
+    <string name="pantheon_caesar_relais_description">ABOUT:\n5 Star Hotel - Pantheon Caesar Relais is on a
+        cobbled street opposite the Largo di Torre Argentina archaeological site. This relaxed
+        bed-and-breakfast is a 5-minute walk from the iconic Pantheon church, a 9-minute walk from
+        Piazza Navona square and 3 km from Roma Termini train station. The 5 straightforward rooms
+        provide complimentary Wi-Fi, flat-screen TVs and minifridges, plus tea and coffeemakers;
+        most offer Largo di Torre Argentina views. Distinctive features in individual rooms include
+        a balcony and a sitting area. Continental breakfast is served in-room.</string>
+    <string name="walk_on_walk_off_rome_name">Walk On Walk Off: Flexible Rome Tour Pass</string>
+    <string name="walk_on_walk_off_rome_duration">DURATION:\n1 hour</string>
+    <string name="walk_on_walk_off_rome_cost">COST:\nfrom $71.37 USD</string>
+    <string name="walk_on_walk_off_rome_booking">BOOK IT:\nhttps://www.walksofitaly.com/rome-tours/walk
+        -on-walk-off-rome-tour-pass</string>
+    <string name="walk_on_walk_off_rome_description">ABOUT:\nUnlock Rome with a flexible tour pass allowing
+        you to take tours on your own schedule. Choose from 10 different tours, from relaxed city strolls,
+        to deep dives into history and even a food tour. Don\'t worry about reserving in advance. Just
+        show up 10 minutes before a tour starts and walk on. If your plans change, it\'s not a problem,
+        the tour runs with or without you.</string>
+    <string name="top_tier_colosseum_name">Top Tier Colosseum Tour with Special Access to 3rd, 4th
+        and 5th Levels, Roman Forum and Palatine Hill</string>
+    <string name="top_tier_colosseum_duration">DURATION:\n3 hours 30 minutes</string>
+    <string name="top_tier_colosseum_cost">COST:\nfrom $102.82 USD</string>
+    <string name="top_tier_colosseum_booking">BOOK IT:\nhttps://www.walksofitaly.com/rome-tours/top-
+        level-colosseum-tour</string>
+    <string name="top_tier_colosseum_description">ABOUT:\nStep up into the 3rd, 4th and 5th tiers of the Colosseum
+        for spectacular views. Enjoy a full general-access Colosseum tour with an expert guide.
+        Immerse yourself in the daily life of ancient Romans in the Roman Forum and Palatine Hill.</string>
+    <string name="rome_in_a_day_name">Rome In A Day Tour: Including Vatican, Colosseum and Historic Center</string>
+    <string name="rome_in_a_day_duration">DURATION:\n7 hours 30 minutes (1 hour 15 minute break)</string>
+    <string name="rome_in_a_day_cost">COST:\nfrom $156.04 USD</string>
+    <string name="rome_in_a_day_booking">BOOK IT:\nhttps://www.walksofitaly.com/rome-tours/rome-in-a-day-tour</string>
+    <string name="rome_in_a_day_description">ABOUT:\nRome wasn\'t built in a day, but with our tour, you
+        can see it in a day! You will see all the top sights of Rome including the Vatican Museums, Colosseum
+        and historic center (Pantheon, Trevi Fountain and Piazza Navona). Also includes a self-guided
+        visit to St. Peter\'s Basilica. With a private transfer from the historic center to the Vatican,
+        we\'ve taken care of all the details for a fun, hassle-free day. Enjoy skip the line entrance at
+        all the sites you visit (Vatican, Colosseum, St Peter\'s Basilica).</string>
+    <string name="pompeii_amalfi_coast_name">Pompeii Tour from Rome with Amalfi Coast Drive</string>
+    <string name="pompeii_amalfi_coast_duration">DURATION:\n13 hours (approx.)</string>
+    <string name="pompeii_amalfi_coast_cost">COST:\nfrom $216.52 USD</string>
+    <string name="pompeii_amalfi_coast_booking">BOOK IT:\nhttps://www.walksofitaly.com/rome-tours/pompeii
+        -tours-from-rome</string>
+    <string name="pompeii_amalfi_coast_description">ABOUT:\nExplore incredible archaeological sites at Pompeii
+        with an expert guide. Relax and enjoy a drive along the Amalfi Coast with a stop at Positano
+        town. Round-trip transport and a friendly English-speaking tour leader make this a fun and
+        hassle free tour.</string>
+    <string name="crypts_catacombs_name">Crypts, Bones and Catacombs: An Underground Tour of Rome</string>
+    <string name="crypts_catacombs_duration">DURATION:\n3 hours</string>
+    <string name="crypts_catacombs_cost">COST:\nfrom $83.46 USD</string>
+    <string name="crypts_catacombs_booking">BOOK IT:\nhttps://www.walksofitaly.com/rome-tours/rome-catacombs-tour</string>
+    <string name="crypts_catacombs_description">ABOUT:\nVisit the quietest and most impressive of Rome\'s Catacombs
+        in a small group - so you can hear your guide! See it for yourself: The eerie \"Bone Chapel\",
+        covered in the bones of 4,000 friars. Discover just how deep the history of Rome goes at a
+        multi-layered (multi-purpose!) Ancient Roman temple/prison/Basilica.</string>
+    <string name="ghost_mystery_walk_name">Rome Ghost and Mystery Night Walking Tour</string>
+    <string name="ghost_mystery_walk_duration">DURATION:\n1 hour 30 minutes</string>
+    <string name="ghost_mystery_walk_cost">COST:\nfrom $29.35 USD</string>
+    <string name="ghost_mystery_walk_booking">BOOK IT:\nhttps://citywonders.com/rome-tours/rome-ghost-tour</string>
+    <string name="ghost_mystery_walk_description">ABOUT:\nAs the sun sets over Rome a new city comes to light
+        – a city of legends and mystery, where thousands of years have left a story behind every stone.
+        The stories Rome has to tell are far from the average bedtime tale, fraught with murder, execution
+        and haunting. Join our expert, English-speaking storytellers who will tell you about the unseen
+        history behind the stunning buildings of central Rome. You\’ll see the house of the most notorious
+        (and empathetic) murderer ever to work in the Eternal City and how Rome cured its crime problems
+        by hanging pictures of the Virgin Mary on every corner. and visit the bridge that legend has it,
+        is haunted by the ghost of the female Pope.</string>
+    <string name="vip_colosseum_forum_name">VIP Colosseum Underground Tour with Roman Forum and Palatine Hill</string>
+    <string name="vip_colosseum_forum_duration">DURATION:\n3 hours 45 minutes</string>
+    <string name="vip_colosseum_forum_cost">COST:\nfrom $114.91 USD</string>
+    <string name="vip_colosseum_forum_booking">BOOK IT:\nhttps://www.walksofitaly.com/rome-tours/colosseum
+        -underground-tours</string>
+    <string name="vip_colosseum_forum_description">ABOUT:\nGo where few tourists have gone before with this VIP
+        Colosseum Underground tour, taking you to closed areas of the Colosseum so you can truly experience
+        the magic of Ancient Rome. Visit the Colosseum underground and walk on the arena floor. Enjoy a
+        full tour of the general access areas of the Colosseum, Roman Forum and Palatine Hill.</string>
+    <string name="skip_line_vatican_name">Skip the Line: Vatican Museums, Sistine Chapel and St Peter\'s
+        Basilica Half-Day Walking Tour</string>
+    <string name="skip_line_vatican_duration">DURATION:\n3 hours (approx.)</string>
+    <string name="skip_line_vatican_cost">COST:\nfrom $44.27 USD</string>
+    <string name="skip_line_vatican_booking">BOOK IT:\nhttps://www.viator.com/tours/Rome/Skip-the-Line-Vatican-Museums
+        -Sistine-Chapel-and-St-Peters-Basilica-Half-Day-Walking-Tour/d511-3058VATICAN</string>
+    <string name="skip_line_vatican_description">ABOUT:\nDiscover Vatican City with a guide and skip-the-line
+        access, including the Vatican Museums, St Peter\’s Basilica and the Sistine Chapel. Home to the
+        world\’s largest private portfolio of artwork, the Vatican is a must-see for visitors to Rome,
+        and the best way to explore it is with a guide. Learn about Raphael\’s Rooms, the Michelangelo
+        frescoes of the Sistine Chapel, the "La Pietà" sculpture in St Peter\’s Basilica and more.
+        Choose from several start times or upgrade to a small-group tour with just 12 people.\n
+        *The entrance fee (not included) is payable on the day of your tour.</string>
+    <string name="colosseum_ancient_rome_by_night_name">Colosseum and Ancient Rome Tour by Night</string>
+    <string name="colosseum_ancient_rome_by_night_duration">DURATION:\n2 hours 30 minutes (approx.)</string>
+    <string name="colosseum_ancient_rome_by_night_cost">COST:\nfrom $94.53 USD</string>
+    <string name="colosseum_ancient_rome_by_night_booking">BOOK IT:\nhttps://www.viator.com/tours/Rome/
+        Colosseum-and-Ancient-Rome-Tour-by-Night/d511-3731COLOSSEUMNIGHT</string>
+    <string name="colosseum_ancient_rome_by_night_description">ABOUT:\nTour the amphitheater and other sites
+        of Ancient Rome under the atmospheric cover of darkness during this 2.5-hour evening tour.
+        Learn about the ruins of the Roman Forum seen from the Piazza del Campidoglio, and enter the
+        Colosseum after the daytime crowds have disappeared and the temperature has dropped. Visit
+        the arena\’s underground chambers, which are closed to most of the public, and stand where
+        gladiators once stood centuries ago. This tour is limited to 25 people.</string>
+    <string name="gladiator_school_name">Roman Gladiator School: Learn How to Become a Gladiator</string>
+    <string name="gladiator_school_duration">DURATION:\n2 hours (approx.)</string>
+    <string name="gladiator_school_cost">COST:\nfrom $65.81 USD</string>
+    <string name="gladiator_school_booking">BOOK IT:\nhttps://www.viator.com/tours/Rome/Roman-Gladiator
+        -School-Learn-How-to-Become-a-Gladiator/d511-2466GLAD</string>
+    <string name="gladiator_school_description">ABOUT:\nFind out what it takes to be an ancient Roman gladiator
+        at the Gladiator School of Rome. During a hands-on lesson with instructors from the Historic
+        Group of Rome, learn how to fight with authentic weapons of the time while wearing a traditional
+        gladiator tunic and belt. Located on the Appian Way, not far from the Colosseum, this class is
+        a unique and interactive way to learn about ancient Roman history, sports, and culture.\n
+        *Select a lesson time when booking.</string>
+</resources>

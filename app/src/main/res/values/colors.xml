@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#755e57</color>
+    <color name="colorPrimaryDark">#3b2f2b</color>
+    <color name="colorAccent">#fff176</color>
+    <color name="tabBar">#bcaaa4</color>
+    <color name="listBackground">#ded6d3</color>
+    <color name="textColor">#000000</color>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/listBackground"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/item_photo"
+        style="@style/ImagesInWordItemListStyle"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/item_image" />
+
+    <TextView
+        android:id="@+id/item_name"
+        style="@style/WordItemListNameStyle"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/detail_item_one"
+        style="@style/WordItemListInfoStyle"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/detail_item_two"
+        style="@style/WordItemListInfoStyle"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/detail_item_three"
+        style="@style/WordItemListInfoStyle"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/detail_item_description"
+        style="@style/WordItemListInfoStyle"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="8dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:attr/selectableItemBackground" />
+
+</LinearLayout>
