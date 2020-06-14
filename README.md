@@ -24,6 +24,7 @@ The app also contains all the useful information a traveler would need to know i
 -Each hotel suggestion lists an address, phone number, website and a short description about the hotel. <br/>
 -Each tour lists a duration, cost, website and a short description about the tour. <br/>
 
+
 ### Screenshots
 
 <img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_see350.png"> &nbsp; &nbsp; <img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_eat350.png">
@@ -33,7 +34,11 @@ The app also contains all the useful information a traveler would need to know i
 
 ### Technology
 
-This project was written in Java using Android Studio.
+This project was written in Java using Android Studio. It was tested and works on the most recent version of Android Studio 4.0.
+
+The Android libraries in this app have not been upgraded to Androidx as of yet.
+
+<br/>
 
 Elements used in this project:
 
