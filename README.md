@@ -26,11 +26,9 @@ The app also contains all the useful information a traveler would need to know i
 
 ### Screenshots
 
-EXAMPLE:
+<img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_see350.png"> &nbsp; &nbsp; <img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_eat350.png">
 
-<img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_see350.png">  <img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_eat350.png">
-
-<img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_sleep350.png">  <img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_tours350.png">
+<img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_sleep350.png"> &nbsp; &nbsp; <img src="https://github.com/biddlecom/Tour-Guide-App/blob/master/Screenshot_tours350.png">
 
 
 ### Technology
